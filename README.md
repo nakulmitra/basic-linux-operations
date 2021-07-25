@@ -1,5 +1,5 @@
 # Basic Linux Operations
-This repository inclues basic linux oprations such as 
+This repository includes basic linux oprations such as 
 1. Create file, directory, user, group
 2. Delete file and directory
 3. Copy, cut & paste and rename a file
