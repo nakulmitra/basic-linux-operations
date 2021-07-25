@@ -1,5 +1,12 @@
 # Basic Linux Operations
-Some basic linux operations.
+This repository inclues basic linux oprations such as 
+1. Create file, directory, user, group
+2. Delete file and directory
+3. Copy, cut & paste and rename a file
+4. Change directory
+5. Commands like ls, sort, stat, pwd
+6. How to create hardlink and softlink
+7. Compress and De-compress operations
 
 # Making Files 
 
@@ -70,7 +77,7 @@ Step 5: Write :wq
 ![](LinuxOperationImages/previousDir.PNG)
 
 # Delete file and directory
-1. Delte a file
+1. Delete a file
 
 ![](LinuxOperationImages/deleteFile.PNG)
 
