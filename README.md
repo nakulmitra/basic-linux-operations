@@ -111,7 +111,7 @@ Print working directory
 
 ![](LinuxOperationImages/pwd.PNG)
 
-# Sort the content of a file
+# sort the content of a file
 
 ![](LinuxOperationImages/sortFile.PNG)
 
