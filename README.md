@@ -109,12 +109,14 @@ Print working directory
 ![](LinuxOperationImages/sortFile.PNG)
 
 # ls command
+
 1. ls 
 To see files and directories present in a current location
 
 ![](LinuxOperationImages/ls.PNG)
 
 2. ls -a
+
 To see hidden files and directories as well
 
 ![](LinuxOperationImages/seeHiddenFilesAndDir.PNG)
