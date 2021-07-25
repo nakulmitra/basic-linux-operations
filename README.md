@@ -42,17 +42,43 @@ Only need to add . before file_name
 ![](LinuxOperationImages/hiddenFileTouch.PNG)
 
 # 3.Using  vi command
-Step 1: vi fileName, new editor will be open
+Step 1: vi fileName
+
+![](LinuxOperationImages/fileVI.PNG)
+
+
+new editor will be open
+
+
+![](LinuxOperationImages/newEditor.PNG)
+
 
 Step 2: Press i button to write
 
+
+![](LinuxOperationImages/insertVI.PNG)
+
+
 Step 3: Enter your content
+
+
+![](LinuxOperationImages/contentVI.PNG)
+
 
 Step 4: Press esc button
 
+
+![](LinuxOperationImages/esc.PNG)
+
+
 Step 5: Write :wq
 
-![](LinuxOperationImages/fileVI.PNG)
+
+![](LinuxOperationImages/wqVI.PNG)
+
+
+![](LinuxOperationImages/dataVI.PNG)
+
 
 # Making Directories
 1. Making single directory
