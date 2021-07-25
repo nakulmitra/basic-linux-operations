@@ -163,4 +163,6 @@ Softlink is used as a shortcut
 
 ![](LinuxOperationImages/unzipFile.PNG)
 
+Note: Linux is case sensitive. 
+
  
