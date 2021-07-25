@@ -5,6 +5,7 @@ Some basic linux operations.
 
 # 1.Using cat command
 1.1 Making Empty File
+
 ![](LinuxOperationImages/emptyFileCat.PNG)
 
 1.2 See  the content of a file
@@ -18,6 +19,7 @@ Some basic linux operations.
 
 # 2.Using touch command
 2.1 Making Empty File
+
 ![](LinuxOperationImages/emptyFileTouch.PNG)
 
 2.2 Making multiple empty files
@@ -29,10 +31,15 @@ Only need to add . before file_name
 
 # 3.Using  vi command
 Step 1: vi fileName, new editor will be open
+
 Step 2: Press i button to write
+
 Step 3: Enter your content
+
 Step 4: Press esc button
+
 Step 5: Write :wq
+
 ![](LinuxOperationImages/fileVI.PNG)
 
 # Making Directories
@@ -54,9 +61,11 @@ Step 5: Write :wq
 
 # Delete file and directory
 1. Delte a file
+
 ![](LinuxOperationImages/deleteFile.PNG)
 
 2. Delete directory 
+
 ![](LinuxOperationImages/removeDir.PNG)
 
 3. Delete directory using rm command
@@ -76,14 +85,15 @@ mv sourceFileName destinationDirectory
 mv oldFileName newFileName
 ![](LinuxOperationImages/renameFile.PNG)
 
-# some other operations
+# Some other operations
 
 # pwd command
 Print working directory
+
 ![](LinuxOperationImages/pwd.PNG)
 
 # Sort the content of a file
-![](LinuxOperationImages/sort.PNG)
+![](LinuxOperationImages/sortFile.PNG)
 
 # ls command
 1. ls 
@@ -101,24 +111,25 @@ To see hidden files and directories as well
 To see access, modified and change time of a file
 ![](LinuxOperationImages/stat.PNG)
 
-# create user
+# Create user
 ![](LinuxOperationImages/createUser.PNG)
 
-# create group
+# Create group
 ![](LinuxOperationImages/createGroup.PNG)
 
-# create hardlink for a file
+# Create hardlink for a file
 Hardlink is used to create backup of a file
 ![](LinuxOperationImages/backupFile.PNG)
 
-# create softlink for a file
+# Create softlink for a file
 Softlink is used as a shortcut
-![](LinuxOperationImages/shortcut.PNG)
 
-# how to compress a file
+![](LinuxOperationImages/shortcutFile.PNG)
+
+# How to compress a file
 ![](LinuxOperationImages/compressFile.PNG)
 
-# how to decompress a file
+# How to decompress a file
 ![](LinuxOperationImages/unzipFile.PNG)
 
  
