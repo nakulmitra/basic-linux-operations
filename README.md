@@ -9,12 +9,15 @@ Some basic linux operations.
 ![](LinuxOperationImages/emptyFileCat.PNG)
 
 1.2 See  the content of a file
+
 ![](LinuxOperationImages/seeContentFileCat.PNG)
 
 1.3 Add content to the file
+
 ![](LinuxOperationImages/appendContentFileCat.PNG)
 
 1.4 Combine the content of two files into third file
+
 ![](LinuxOperationImages/addTwoFileCat.PNG)
 
 # 2.Using touch command
@@ -23,10 +26,12 @@ Some basic linux operations.
 ![](LinuxOperationImages/emptyFileTouch.PNG)
 
 2.2 Making multiple empty files
+
 ![](LinuxOperationImages/multipleFileTouch.PNG)
 
 2.3 Making hidden files
 Only need to add . before file_name
+
 ![](LinuxOperationImages/hiddenFileTouch.PNG)
 
 # 3.Using  vi command
@@ -44,19 +49,24 @@ Step 5: Write :wq
 
 # Making Directories
 1. Making single directory
+
 ![](LinuxOperationImages/makeDir.PNG)
 
 2. Making multiple directories
+
 ![](LinuxOperationImages/multipleDir.PNG)
 
 3. Making parent directory
+
 ![](LinuxOperationImages/parentDir.PNG)
 
 # Change directory
 1. To go into the directory
+
 ![](LinuxOperationImages/cd.PNG)
 
 2. To come out from the directory
+
 ![](LinuxOperationImages/previousDir.PNG)
 
 # Delete file and directory
@@ -69,6 +79,7 @@ Step 5: Write :wq
 ![](LinuxOperationImages/removeDir.PNG)
 
 3. Delete directory using rm command
+
 ![](LinuxOperationImages/removeDirUsing_rm.PNG)
 
 # Copy a file
@@ -83,6 +94,7 @@ mv sourceFileName destinationDirectory
 
 # Rename a file
 mv oldFileName newFileName
+
 ![](LinuxOperationImages/renameFile.PNG)
 
 # Some other operations
@@ -93,32 +105,40 @@ Print working directory
 ![](LinuxOperationImages/pwd.PNG)
 
 # Sort the content of a file
+
 ![](LinuxOperationImages/sortFile.PNG)
 
 # ls command
 1. ls 
 To see files and directories present in a current location
+
 ![](LinuxOperationImages/ls.PNG)
 
 2. ls -a
 To see hidden files and directories as well
+
 ![](LinuxOperationImages/seeHiddenFilesAndDir.PNG)
 
 3. To see meta data of files and directories
+
 ![](LinuxOperationImages/detailLS.PNG)
 
 # stat command
 To see access, modified and change time of a file
+
 ![](LinuxOperationImages/stat.PNG)
 
 # Create user
+
 ![](LinuxOperationImages/createUser.PNG)
 
 # Create group
+
 ![](LinuxOperationImages/createGroup.PNG)
 
 # Create hardlink for a file
 Hardlink is used to create backup of a file
+
 ![](LinuxOperationImages/backupFile.PNG)
 
 # Create softlink for a file
@@ -127,9 +147,11 @@ Softlink is used as a shortcut
 ![](LinuxOperationImages/shortcutFile.PNG)
 
 # How to compress a file
+
 ![](LinuxOperationImages/compressFile.PNG)
 
 # How to decompress a file
+
 ![](LinuxOperationImages/unzipFile.PNG)
 
  
