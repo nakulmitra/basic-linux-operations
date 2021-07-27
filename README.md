@@ -155,7 +155,7 @@ To see hidden files and directories as well
 
 ![](LinuxOperationImages/seeHiddenFilesAndDir.PNG)
 
-3. ls -ls
+3. ls -la
 
  To see meta data of files and directories
 
