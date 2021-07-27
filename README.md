@@ -144,6 +144,7 @@ Print working directory
 # ls command
 
 1. ls 
+
 To see files and directories present in a current location
 
 ![](LinuxOperationImages/ls.PNG)
@@ -154,7 +155,9 @@ To see hidden files and directories as well
 
 ![](LinuxOperationImages/seeHiddenFilesAndDir.PNG)
 
-3. To see meta data of files and directories
+3. ls -ls
+
+ To see meta data of files and directories
 
 ![](LinuxOperationImages/detailLS.PNG)
 
